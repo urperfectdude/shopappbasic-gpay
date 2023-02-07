@@ -1,1 +1,1 @@
-# Paymnt App Clone
+# Payment App Clone
